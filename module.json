@@ -16,7 +16,7 @@
   "esmodules": [],
   "styles": [],
   "packs": [],
-  "languages": []
+  "languages": [],
+  "manifest": "https://raw.githubusercontent.com/MrKOK/simple-flashlight/main/module.json",
+  "download": "https://github.com/MrKOOKE/simple-flashlight/releases/latest/download/simple-flashlight.zip"
 }
-
-
