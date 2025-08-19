@@ -1,0 +1,22 @@
+{
+  "id": "simple-flashlight",
+  "title": "Simple Flashlight",
+  "description": "Включает свет токена при надевании предмета.",
+  "version": "1.0.0",
+  "authors": [
+    { "name": "MrKOK" }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12"
+  },
+  "scripts": [
+    "scripts/simple-flashlight.js"
+  ],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "languages": []
+}
+
+
